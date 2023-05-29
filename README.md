@@ -1,3 +1,5 @@
+This is my final project on Customer churn. Combine the report and jupyter file for a better understanding of the work.
+
 Introduction:
 
 Customer churn is when a customer leaves a company entirely. Customer
